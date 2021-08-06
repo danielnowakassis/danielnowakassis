@@ -28,7 +28,7 @@
 
 - Português (fluente)
 - Inglês (nível B2)
-- Alemão (nível B1)
+- Alemão (nível B2)
 
 ## 🏅 Commits e Linguagens mais usadas em repositórios
 
